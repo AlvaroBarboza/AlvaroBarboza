@@ -2,7 +2,7 @@
 
 ## About Me  
 
-🚀 Data Professional with over 2 years of experience, specializing in translating complex analyses into process optimization and systemic impact.  
+🚀 Professional with over 2 years of experience, specializing in translating complex analyses into process optimization and systemic impact.  
 
 🔧 Skilled in **SQL, Python, and Power BI**, I move beyond standard analysis to build data pipelines, automate tasks, and identify the root causes of operational issues. 
 
