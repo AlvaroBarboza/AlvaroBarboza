@@ -36,7 +36,7 @@ As part of my focus on process optimization and risk reduction, I developed this
 *(Note: Sensitive data and absolute numbers have been masked to protect business compliance and confidentiality).*
 
 <details>
-<summary><b>🖼️ Clique aqui para ver as telas do Dashboard</b></summary>
+<summary><b>🖼️ Click here to view the Dashboard screens</b></summary>
 <br>
 
 **1. KPI Overview & Fraud Tags**
