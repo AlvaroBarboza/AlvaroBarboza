@@ -35,11 +35,17 @@ As part of my focus on process optimization and risk reduction, I developed this
 
 *(Note: Sensitive data and absolute numbers have been masked to protect business compliance and confidentiality).*
 
+<details>
+<summary><b>🖼️ Clique aqui para ver as telas do Dashboard</b></summary>
+<br>
+
 **1. KPI Overview & Fraud Tags**
 ![KPI Dashboard](imagens/kpi.jpg)
 
 **2. Status Analysis & Distribution**
 ![Status Dashboard](imagens/status.jpg)
+
+</details>
 
 ---
 
