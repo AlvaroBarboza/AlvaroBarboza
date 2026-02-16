@@ -15,7 +15,7 @@
 ## Skills & Technologies  
 
 - **Programming Languages**: SQL, Python, JavaScript
-- **Cloud Platforms & Tools**: Microsoft Azure, Spark, Git/GitHub  
+- **Version Control & Tools**: Git, GitHub  
 - **Databases**: MySQL, TiDB
 - **Analysis & Visualization**: Power BI, Looker Studio 
 - **Machine Learning & Automation**: Contributed to the training of Machine Learning models, focusing on the reduction of false positives. 
@@ -28,12 +28,25 @@
 - 🤖 **Generative AI & Machine Learning**: Contributed to the development of a Generative AI bot for mass ticket closure. I assisted the Data Engineering team with the bot's Machine Learning by defining conditions and developing prompts to handle a specific tag with a high false-positive rate, thereby improving operational efficiency.
 - 🛡️ **Data Quality and Diagnostics**: Promptly identified inconsistencies and bugs during high-demand events, documenting evidence and proposing technical solutions via Jira Tickets to ensure data reliability.
 
+
+### 📊 Featured Project: Fraud Analysis Dashboard
+
+As part of my focus on process optimization and risk reduction, I developed this Power BI dashboard to monitor fraud volume and document SLA. 
+
+*(Note: Sensitive data and absolute numbers have been masked to protect business compliance and confidentiality).*
+
+**1. KPI Overview & Fraud Tags**
+![KPI Dashboard](imagens/kpi.jpg)
+
+**2. Status Analysis & Distribution**
+![Status Dashboard](imagens/status.jpg)
+
 ---
 
 ## Fun Facts  
 
 - 📚 I'm a literature enthusiast, always looking to learn from the classics and philosophy.  
-- 🧑🏻‍💻 I love to study and stay focused on my degree, studying in my free time, especially about data analysis and engineering.  
+- 🧑🏻‍💻 🧑🏻‍💻 I'm a lifelong learner, dedicating my free time to diving deeper into data engineering and advanced analytics.  
 
 ---
 
