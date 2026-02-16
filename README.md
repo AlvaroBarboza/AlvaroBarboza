@@ -47,6 +47,8 @@ As part of my focus on process optimization and risk reduction, I developed this
 
 </details>
 
+- 🛡️ [**SQL Pipeline: Fraud Analysis & SLA Prioritization**](https://github.com/AlvaroBarboza/sql-fraud-analysis): An ETL script using Window Functions and CTEs to prioritize high-risk pending documents.
+
 ---
 
 ## Fun Facts  
