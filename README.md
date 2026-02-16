@@ -46,7 +46,7 @@ As part of my focus on process optimization and risk reduction, I developed this
 ## Fun Facts  
 
 - 📚 I'm a literature enthusiast, always looking to learn from the classics and philosophy.  
-- 🧑🏻‍💻 🧑🏻‍💻 I'm a lifelong learner, dedicating my free time to diving deeper into data engineering and advanced analytics.  
+- 🧑🏻‍💻 I'm a lifelong learner, dedicating my free time to diving deeper into data engineering and advanced analytics.  
 
 ---
 
